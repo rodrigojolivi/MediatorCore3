@@ -1,4 +1,4 @@
-# HealthChecks with Swagger
+# Sample project with MediatR
 MediatR in ASP.NET Core 3.1 
 
 # Technologies
